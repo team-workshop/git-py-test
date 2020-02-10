@@ -1,0 +1,10 @@
+# Git will not track changes in the following files
+
+## Compiled code
+*.pyc
+
+## Checkpoitns for notebooks
+**/.ipynb_checkpoints
+
+## Data files
+data/
