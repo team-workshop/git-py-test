@@ -62,4 +62,4 @@ The workflow might be the following:
 2. Add additional tests
 3. Refactor compute_quality_index method
 4. Commit and push your work
-5. Pull request to merge your branch into dev
+5. Pull request to merge your branch into dev (branch `feature/initiation-python-test-dev`)
